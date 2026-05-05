@@ -37,6 +37,4 @@ opcion3 = input("pagara mensualidades? (S/N): ").upper()
 
 if opcion3 == "S":
     cantidad = int(input("indique cantidad (1-12): "))
-    
-    if
 
